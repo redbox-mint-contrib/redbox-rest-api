@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="TILS-HPC-069276" name="Test" tests="1" time="0.04" timestamp="2013-12-11T04:37:15">
+  <properties />
+  <testcase classname="Test" name="initializationError" time="0.04">
+    <error message="No runnable methods" type="java.lang.Exception">java.lang.Exception: No runnable methods
+</error>
+  </testcase>
+  <system-out><![CDATA[--Output from initializationError--
+]]></system-out>
+  <system-err><![CDATA[--Output from initializationError--
+]]></system-err>
+</testsuite>
